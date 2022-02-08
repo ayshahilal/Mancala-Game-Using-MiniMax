@@ -24,3 +24,17 @@ The game has been played 20 times in two levels.
     Easy                  20                     7                       0.35
 
     Difficult             20                     17                      0.85
+
+Computer wins:
+
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/44849765/153004363-3cde28ad-7801-4228-a56d-75da47303550.png">
+
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/44849765/153004386-fa63538d-04e6-4a3d-8394-ca9b14bdcb37.png">
+
+
+Player wins:
+
+
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/44849765/153004448-647874a2-a313-4f96-8513-a0510a9e54ee.png">
+
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/44849765/153004460-1eb2ae1a-dbfc-4d37-8a71-9b81b9fd9fea.png">
