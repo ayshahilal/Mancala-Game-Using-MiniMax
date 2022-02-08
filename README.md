@@ -16,11 +16,11 @@ Two different evaluation functions have been written as evaluation functions:
 
 
 SUCCESS OF THE SYSTEM
+
 The game has been played 20 times in two levels.
 
+    DIFFICULTY - TOTAL NUMBER OF GAMES - NUMBER OF GAMES WON - THE SYSTEM ACHIEVEMENT
 
-DIFFICULTY - TOTAL NUMBER OF GAMES - NUMBER OF GAMES WON - THE SYSTEM ACHIEVEMENT
+    Easy                  20                     7                       0.35
 
-Easy                  20                     7                       0.35
-
-Difficult             20                     17                      0.85
+    Difficult             20                     17                      0.85
